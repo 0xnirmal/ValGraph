@@ -2,11 +2,10 @@
 
 ## Contents
 
-- [!ValGraph.png ValGraph](#-valgraph)
-  - [Contents](#contents)
-  - [Summary](#summary)
-  - [Thesis](#thesis)
-  - [License](#license)
+- [Contents](#contents)
+- [Summary](#summary)
+- [Thesis](#thesis)
+- [License](#license)
 
 <a name="summary"></a>
 
