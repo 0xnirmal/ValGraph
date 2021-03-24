@@ -1,4 +1,4 @@
-# ![ValGraph.png](ValGraph.png) ValGraph
+# ![ValGraph.png](ValGraph.png)
 
 ## Contents
 
