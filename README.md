@@ -21,9 +21,11 @@ ex: `Figma`, `AirTable`, `Tableau` - business analysts can now be involved in pr
 4. E2E + Integration testing is hard and it's often the most [useful](https://testingjavascript.com/). (3) makes this even more important.
 
 **Dream the Dream**: 
+
 `ValGraph` is a low-code platform that makes writing automated GraphQL E2E tests easy and efficient. Moreover, since the tests are intended to be run against a GraphQL endpoint, the tool will allow customers to ping their service live and verify their SLA. A SaaS offering on top of the tool makes testing cheap in cost and in labor.
 
 **Example**: 
+
 A PM is tasked with writing a spec for new functionality on the team's GraphQL endpoint. Rather than writing a word document, he writes some test cases and explanations using `ValGraph`. 
 
 A software engineer takes these test cases and builds a prototype running on her local machine. She checks in the code and adds some `ValGraph` test cases as well.
