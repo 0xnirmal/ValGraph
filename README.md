@@ -20,10 +20,14 @@ a delightful low-code GraphQL testing tool
 **Legs**:
 
 1. Low / no-code tooling is enabling more people to be involved in product without accreditation or engineering background.
+
    ex: `Figma`, `AirTable`, `Tableau` - business analysts can now be involved in product design, engineering, and analytics
+
 2. Developers are increasingly being spread-thin as roles consolidate in the industry. 10 years ago, it wasn't uncommon to see a Software Engineer, QA Engineer, Database Admin, and UX Engineer working in harmony. Today, all of these roles have been compacted into the Full-Stack Engineer.
 3. Microservices are exploding in popularity and more services are being [API-ified](https://www.notboring.co/p/apis-all-the-way-down). With this trend, technologies are emerging that make interfacing with disparate data streams easier. [GraphQL](https://graphql.org/) is the one I'm betting on.
+
    _(Sidenote: I understand this makes this tool low-TAM, but the [schema introspection](https://graphql.org/learn/introspection/) functionality will make the end product so much better)_
+
 4. E2E + Integration testing is hard and it's often the most [useful](https://testingjavascript.com/). (3) makes this even more important.
 
 **Dream the Dream**:
