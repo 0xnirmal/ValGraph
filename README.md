@@ -1,10 +1,8 @@
-# ValGraph
-
-![ValGraph.png](ValGraph.png)
+# ![ValGraph.png](ValGraph.png) ValGraph
 
 ## Contents
 
-- [ValGraph](#valgraph)
+- [!ValGraph.png ValGraph](#-valgraph)
   - [Contents](#contents)
   - [Summary](#summary)
   - [Thesis](#thesis)
