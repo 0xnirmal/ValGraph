@@ -1,5 +1,7 @@
 # ValGraph
 
+![ValGraph.png](ValGraph.png)
+
 ## Contents
 
 - [ValGraph](#valgraph)
@@ -11,8 +13,6 @@
 <a name="summary"></a>
 
 ## Summary
-
-![ValGraph.png](ValGraph.png)
 
 a delightful low-code GraphQL testing tool
 
