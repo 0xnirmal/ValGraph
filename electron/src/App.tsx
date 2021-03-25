@@ -1,15 +1,22 @@
 import React from 'react';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
-import icon from '../assets/icon.svg';
+import icon from '../assets/ValGraph.png';
 import './App.global.css';
 
 const Hello = () => {
   return (
     <div>
       <div className="Hello">
-        <img width="200px" alt="icon" src={icon} />
+        <a
+          href="https://github.com/nirmal-krishnan/ValGraph"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <img width="200px" alt="icon" src={icon} />
+        </a>
       </div>
-      <h1>electron-react-boilerplate</h1>
+
+      <h1 style={{ textAlign: 'center' }}>ValGraph</h1>
       <div className="Hello">
         <a
           href="https://electron-react-boilerplate.js.org/"
