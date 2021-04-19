@@ -11,7 +11,7 @@
 
 ## Summary
 
-a delightful low-code GraphQL testing tool
+figma for testing
 
 <a name="thesis"></a>
 
