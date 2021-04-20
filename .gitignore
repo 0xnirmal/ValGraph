@@ -151,4 +151,7 @@ dist/
 tmp/
 temp/
 
+out/
+
+electron_app/build
 # End of https://www.toptal.com/developers/gitignore/api/node
